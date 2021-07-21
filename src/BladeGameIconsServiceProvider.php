@@ -19,7 +19,6 @@ final class BladeGameIconsServiceProvider extends ServiceProvider
 
             $factory->add('game-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeGameIconsServiceProvider extends ServiceProvider
             ], 'blade-game-icons-config');
         }
     }
-
 }

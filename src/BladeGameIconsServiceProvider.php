@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Codeat3\BladeGameIcons;
 
 use BladeUI\Icons\Factory;
-use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Container\Container;
+use Illuminate\Support\ServiceProvider;
 
 final class BladeGameIconsServiceProvider extends ServiceProvider
 {

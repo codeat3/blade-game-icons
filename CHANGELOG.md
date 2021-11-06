@@ -2,6 +2,7 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## [Unreleased](https://github.com/codeat3/blade-game-icons/compare/1.8.1...main)
 
 ## 1.0.0 (2021-07-02)
 * Initial release.

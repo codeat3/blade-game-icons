@@ -2,12 +2,20 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-game-icons/compare/1.4.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-game-icons/compare/1.5.0...HEAD)
 
 ## 1.0.0 (2021-07-02)
 
 - Initial release.
 - Synced with the latest commit [Game Icons - commit: c547b7e4941d83bba737cd97a0a168e6719a7807](https://github.com/game-icons/icons/commit/c547b7e4941d83bba737cd97a0a168e6719a7807)
+
+## [1.5.0](https://github.com/codeat3/blade-game-icons/compare/1.4.0...1.5.0) - 2025-02-26
+
+### What's Changed
+
+* added laravel 12 support by @swapnilsarwe in https://github.com/codeat3/blade-game-icons/pull/10
+
+**Full Changelog**: https://github.com/codeat3/blade-game-icons/compare/1.4.0...1.5.0
 
 ## [1.4.0](https://github.com/codeat3/blade-game-icons/compare/1.3.0...1.4.0) - 2024-02-29
 
